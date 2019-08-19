@@ -19,3 +19,6 @@
       enable: true,
       package: 'egg-plugin-ua'
     };
+
+### 🚀🚀🚀 step 4
+  在主项目中的controller中使用this.ctx调用在插件中定义的方法
